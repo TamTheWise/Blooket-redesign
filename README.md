@@ -1,2 +1,2 @@
 # Blooket-redisign
-cool
+Now no one can just randomly join
