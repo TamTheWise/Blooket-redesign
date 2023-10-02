@@ -1,21 +1,3 @@
-.styles__idNumberText___z6BRo-camelCase {
+.styles__idNumberText___z6BRo-camelCase, .styles__titleText___1YhFr-camelCase, path, .styles__rightContainer___1chxB-camelCase, .styles__headerText___UGG1C-camelCase, .styles__playerNumber___sEL8H-camelCase {
     visibility: hidden;
-    
-}
-.styles__titleText___1YhFr-camelCase {
-    visibility: hidden;
-    
-}
-path {
-    visibility: hidden;
-    
-}
-.styles__rightContainer___1chxB-camelCase {
-    visibility: hidden;
-}
-.styles__headerText___UGG1C-camelCase {
-    visibility: hidden;
-}
-.styles__playerNumber___sEL8H-camelCase {
-    visibility: hidden;
-    
+}   
